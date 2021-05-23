@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1026490339820",
+    "project_id": "spyapp-b52b0",
+    "storage_bucket": "spyapp-b52b0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1026490339820:android:2245ea6814f83b5b20b0c9",
+        "android_client_info": {
+          "package_name": "com.example.spyapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1026490339820-mm6gnb5572obd9c4blfdj2ptj6ach609.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBYnW1RH0mKZEjbY4SmxfMALxFvyAHcZQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1026490339820-mm6gnb5572obd9c4blfdj2ptj6ach609.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
